@@ -1,0 +1,6 @@
+{
+  "name": "B2B LeadGen Landing",
+  "description": "Высококонверсионный лендинг для B2B бизнеса в Казахстане",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
